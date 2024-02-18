@@ -1,5 +1,7 @@
 # Node & Express TypeScript Generics and Abstract Classes for Flexible Data Exportation
 
+![Thumbnail](assets/thumbnail.png)
+
 This repository contains a Node.js and Express application that demonstrates the usage of TypeScript generics and
 abstract classes for flexible data exportation. The application showcases how to generate reports in various formats
 (CSV, PDF, etc.) using clean and maintainable code principles.
